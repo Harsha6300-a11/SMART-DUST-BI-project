@@ -35,5 +35,5 @@ void loop() {
         lid.write(0);   // Close lid
         delay(1000);    // Avoid rapid toggling
     }
-    delay(200);
+ Â Â Â delay(200);
 }
